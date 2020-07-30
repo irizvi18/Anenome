@@ -1,0 +1,22 @@
+{
+  "name": "anenome",
+  "version": "1.0.0",
+  "description": "An anonymous messaging platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irizvi18/Anenome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irizvi18/Anenome/issues"
+  },
+  "homepage": "https://github.com/irizvi18/Anenome#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
